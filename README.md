@@ -5,7 +5,7 @@
 - **Databases**: SQLite, MySQL, MongoDB
 - **Docker** and **Kubernetes**
 - Linux Bash Basic Commands
-- **AWS Certified - Cloud Practitioner** [CLF-C01](https://example.com/aws-certification)
+- **AWS Certified - Cloud Practitioner**
 
 ## <span style="color: #FF6347">Education</span>
 
