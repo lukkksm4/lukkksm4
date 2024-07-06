@@ -9,7 +9,6 @@
 
 ## <span style="color: #FF6347">Education</span>
 
-- **Currently pursuing a degree in Systems Development** (expected graduation year 2025)
 - **Relevant coursework** includes:
   - Data Structures and Algorithms
   - Software Development Cycle
